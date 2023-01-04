@@ -2,22 +2,22 @@
 
 Concise essays of technical or entrepreneurial nature
 
-- Tech
+# Tech
 
--- Blockchain
+## Blockchain
 
---- Smart Contracts
+### Smart Contracts
 
--- Web
+## Web
 
---- Frontend
+### Frontend
 
---- Backend
+### Backend
 
-- Enrepreneurial
+# Enrepreneurial
 
--- Business
+## Business
 
--- Law
+## Law
 
--- Finance
+## Finance
