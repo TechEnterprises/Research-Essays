@@ -1,0 +1,5 @@
+In a holacracy-governed organization, the traditional concept of a "boss" or hierarchical manager is replaced by a system of roles and responsibilities that are defined in a governance structure. In holacracy, authority is decentralized and decision-making is distributed throughout the organization, rather than being held by a single person or group at the top of the hierarchy.
+
+In a holacracy, roles are defined in governance records and are designed to clearly articulate the work that needs to be done and the expectations for how that work will be carried out. Each role has specific responsibilities and authorities that are defined in the governance records, and individuals who hold a particular role are accountable for fulfilling those responsibilities.
+
+It is important to note that holacracy is not a rigid system, and it allows for flexibility and adaptability within an organization. While there are no traditional "bosses" in holacracy, individuals who hold certain roles may have more decision-making power or influence within the organization due to the responsibilities and authorities associated with their roles.
