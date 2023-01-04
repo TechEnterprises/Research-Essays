@@ -23,6 +23,9 @@ Concise essays of technical or entrepreneurial nature
 
 ## Business
 
+### Management
+[Project Management & The PMBOK Guide](https://github.com/TechEnterprises/Research-Essays/blob/main/project-management-and-PMBOK.md)
+
 ## Law
 
 ## Finance
