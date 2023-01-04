@@ -134,7 +134,7 @@ My second major category of participatory organization practices is Participator
 
 Under US corporate law, decision making by equity stakeholders has precedence over other stakeholders, in particular, over that of employee stakeholders. One solution for participatory corporations is to make every employee an equity stakeholder. 
 
-There are a variety of ways to do this, among which is the [Cooperative Corporation]. By tradition (and enforced by some state laws, such as in California) each employee has one share and thus one vote in all decision making. Some cooperatives also require consensus by all stakeholder (typically defined as a lack of disagreement as opposed to true unanimous consent).
+There are a variety of ways to do this, among which is the [Cooperative Corporation](https://github.com/TechEnterprises/Research-Essays/blob/main/cooperative-corporation.md). By tradition (and enforced by some state laws, such as in California) each employee has one share and thus one vote in all decision making. Some cooperatives also require consensus by all stakeholder (typically defined as a lack of disagreement as opposed to true unanimous consent).
 
 There may be some ways to have a cooperative be the managing partner in an LLC where the rest of the general partners come from outside investment. There are also some other LLC forms that have different shared equity approaches, however, the challenge for LLCs is that there can be tax consequences for all when a member enters or exits the organization.
 
@@ -144,7 +144,7 @@ Mondragon: http://m.democracynow.org/web_exclusives/1695
 
 ### Benefit Corporation
 
-In some US states, a corporation can be founded such that equity stakeholders do not have ultimate precedence over other stakeholders. This is a new form and there are some pretty significant difference between different versions of B-Corps in different states.
+In some US states, a corporation can be founded such that equity stakeholders do not have ultimate precedence over other stakeholders. This is a new form and there are some pretty significant difference between different versions of [B-Corps](https://github.com/TechEnterprises/Research-Essays/blob/main/benefit-corporation.md) in different states.
 
 LLC's do not necessarily require a new form of corporation in their state to allow them to have B-corp style equity precedence, as they can make changes to their membership partnership agreement: https://www.bcorporation.net/become-a-b-corp/how-to-become-a-b-corp/legal-roadmap/llc-legal-roadmap
 
