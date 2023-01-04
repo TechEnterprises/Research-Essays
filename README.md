@@ -17,7 +17,7 @@ Concise essays of technical or entrepreneurial nature
 ## Services
 
 ### Github
-[Markdown (.md)](https://github.com/TechEnterprises/Research-Essays/markdown.md)
+[Markdown (.md)](https://github.com/TechEnterprises/Research-Essays/blob/main/markdown.md)
 
 # Enrepreneurial
 
