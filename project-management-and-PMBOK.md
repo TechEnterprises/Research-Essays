@@ -12,13 +12,13 @@ PRINCE2: PRINCE2 (PRojects IN Controlled Environments) is a project management m
 
 Overall, these are just a few of the many project management methodologies that are used in practice today. The best approach for a particular project will depend on the specific needs and constraints of the project.
 
-**The PMBOK (Project Management Body of Knowledge) Guide
+** The PMBOK (Project Management Body of Knowledge) Guide
 
 The PMBOK (Project Management Body of Knowledge) Guide is a widely recognized standard for the practice of project management. It is developed and published by the Project Management Institute (PMI).
 
 The PMBOK Guide is organized into the following sections:
 
-**Introduction: 
+** Introduction: 
 
 The "Introduction" section of the PMBOK (Project Management Body of Knowledge) Guide provides an overview of the guide and its purpose. It explains that the PMBOK Guide is a widely recognized standard for the practice of project management, and it is developed and published by the Project Management Institute (PMI).
 
@@ -28,9 +28,9 @@ The "Introduction" section also explains how the PMBOK Guide is intended to be u
 
 Overall, the "Introduction" section provides a high-level overview of the PMBOK Guide and its role as a standard for the practice of project management.
 
-**Project Management Framework: 
+** Project Management Framework: 
 
-*This section defines the fundamental project management processes and terminology used throughout the PMBOK Guide. It includes a description of the project management process groups (Initiating, Planning, Executing, Monitoring and Controlling, and Closing) and the nine project management knowledge areas (Integration, Scope, Time, Cost, Quality, Resource, Communication, Risk, and Procurement).
+* This section defines the fundamental project management processes and terminology used throughout the PMBOK Guide. It includes a description of the project management process groups (Initiating, Planning, Executing, Monitoring and Controlling, and Closing) and the nine project management knowledge areas (Integration, Scope, Time, Cost, Quality, Resource, Communication, Risk, and Procurement).
 
 The "Project Management Framework" section of the PMBOK (Project Management Body of Knowledge) Guide is a widely recognized standard for the practice of project management. It provides a common language and framework for organizing and managing project activities.
 
@@ -40,17 +40,17 @@ The project management process groups describe the high-level activities that ar
 
 The "Project Management Framework" section also discusses the role of project stakeholders, including customers, sponsors, and project team members, and it describes the tools and techniques that are used to manage and control projects.
 
-**Project Management Processes: 
+** Project Management Processes: 
 
-*This section provides a detailed description of the project management processes and the activities that are performed within each process group. It includes a description of the inputs, tools and techniques, and outputs of each process.
+* This section provides a detailed description of the project management processes and the activities that are performed within each process group. It includes a description of the inputs, tools and techniques, and outputs of each process.
 
 The PMBOK Guide defines a process as "a series of actions or steps taken in order to achieve a particular end." In the context of project management, processes are the activities that are performed in order to plan, execute, monitor, and control a project.
 
 The PMBOK Guide identifies five process groups that are used to organize the project management processes:
 
-***Initiating***: This process group includes the processes that are used to define the project and obtain authorization to start work.
+*** Initiating ***: This process group includes the processes that are used to define the project and obtain authorization to start work.
 
-***Planning***: This process group includes the processes that are used to define the project's scope, schedule, budget, and resources.
+*** Planning ***: This process group includes the processes that are used to define the project's scope, schedule, budget, and resources.
 
 ***Executing***: This process group includes the processes that are used to coordinate the people, resources, and activities needed to complete the project.
 
@@ -60,9 +60,9 @@ The PMBOK Guide identifies five process groups that are used to organize the pro
 
 Each process group includes a set of specific processes, and each process has a defined set of inputs, tools and techniques, and outputs. The PMBOK Guide provides a detailed description of each of these processes and how they fit together to form a cohesive project management framework.
 
-**The Standard for Project Management: 
+** The Standard for Project Management: 
 
-*This section presents the PMI's standard for project management and provides guidance on how it should be applied in practice.
+* This section presents the PMI's standard for project management and provides guidance on how it should be applied in practice.
 
 The Standard for Project Management is a document published by the Project Management Institute (PMI) that provides guidance on the practice of project management. It is intended to help organizations improve their project management practices and achieve better results.
 
